@@ -8,7 +8,7 @@
 
 - Inconsistency: Each class had a different way of managing collections, leading to confusion and a steep learning curve.
 - Lack of inter-operability: These classes were not designed to work seamlessly.
-- No common interface: There was no common interface for all these classes, which meant you couldn't write generic algorithms that could operate on different types of collections.
+- No common interface: There was no common interface for all these classes, which mean you couldn't write generic algorithms that could operate on different types of collections.
 
 ## Introduction of JCF
 
